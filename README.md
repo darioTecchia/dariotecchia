@@ -5,13 +5,6 @@
 
 <script>
   export default {
-    layout: "clean",
-    data() {
-      return {
-        roomNumber: "",
-        password: ""
-      };
-    },
     methods: {
       getInfoAboutMe() {
         return {
