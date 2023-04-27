@@ -20,30 +20,6 @@
             position: 'Digital Engineer'
           }
         };
-      },
-      getSkills() {
-        return [
-          'web development',
-          'problem solving',
-          'php',
-          'mysql',
-          'javascript',
-          'html5',
-          'css3',
-          'nodejs',
-          'mongodb',
-          'vuejs',
-          'nuxtjs',
-          'angular',
-          'python',
-          'express',
-          'mongoose',
-          'git',
-          'github',
-          'bitbucket',
-          'gitlab',
-          'java'
-        ]
       }
     }
   };
