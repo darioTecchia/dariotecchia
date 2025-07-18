@@ -16,8 +16,8 @@
       getCurrentWorkplace() {
         return {
           workplace: {
-            company: 'NTT Data Italia',
-            position: 'Digital Engineer'
+            company: 'Amaris',
+            position: 'Consultant'
           }
         };
       }
